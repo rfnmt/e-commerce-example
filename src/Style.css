@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Vazir;
+    src: url("./Font/Vazir.eot");
+    src: url("./Font/Vazir.woff") format("woff"),
+      url("./Font/Vazir.ttf") format("truetype");
+    font-weight: normal;
+  }
+  
+  * {
+    font-family: Vazir !important;
+    direction: rtl;
+    /* padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: right; */
+  }
